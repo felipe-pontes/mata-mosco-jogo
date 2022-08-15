@@ -1,4 +1,3 @@
-# mata-mosco-jogo
 
 # mata-mosca-jogo
 projeto de conclusao do curso de javascript da Udemy
