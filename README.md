@@ -11,7 +11,7 @@ Este é um projeto para estudos, desenvolvido através do conteudo curso da Udem
 
 - Bootstrap
 - Html 5 
-- CSS 3 / SASS
+- CSS 3 
 - Javascript
 
 
